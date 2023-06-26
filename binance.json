@@ -1,0 +1,10 @@
+[
+  { "symbol": "JUV", "depositAllEnable": true, "withdrawAllEnable": true },
+  { "symbol": "ACM", "depositAllEnable": true, "withdrawAllEnable": true },
+  { "symbol": "CITY", "depositAllEnable": true, "withdrawAllEnable": true },
+  { "symbol": "OG", "depositAllEnable": true, "withdrawAllEnable": true },
+  { "symbol": "ASR", "depositAllEnable": true, "withdrawAllEnable": true },
+  { "symbol": "ATM", "depositAllEnable": true, "withdrawAllEnable": true },
+  { "symbol": "PSG", "depositAllEnable": true, "withdrawAllEnable": true },
+  { "symbol": "BAR", "depositAllEnable": true, "withdrawAllEnable": true }
+]
